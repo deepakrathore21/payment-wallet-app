@@ -34,7 +34,7 @@ The following Diagram depicts the flow of our Entity Relation Diagram to simplif
 
 3) Abhishek Kumar -Responsible For handeling the Exceptions and Creating the Service Layer.
 
-4) Navneet Singh -Responsible for The frontent Layer while implementing proper RESTful API naming Conventions.
+4) Deepak Rathore -Responsible for The frontent Layer while implementing proper RESTful API naming Conventions.
 
 5) Roshni -Responsible for Creating the login and logout Session layer with proper validation.
 
