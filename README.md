@@ -169,5 +169,5 @@ Contributors
 - @Abhishek Kumar
 - @Abhishek Kumar
 - @Bubai Ghosh
-- @Navneet Singh
+- @Deepak Rathore
 
